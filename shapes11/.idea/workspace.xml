@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b835b55d-b456-45b0-be8e-09538f94aca4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Shapes1" beforeDir="false" afterPath="$PROJECT_DIR$/../Shapes1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_task" beforeDir="false" afterPath="$PROJECT_DIR$/../first_task" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shapes11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colors/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/ShapesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/ShapesServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tsareva_task" beforeDir="false" afterPath="$PROJECT_DIR$/../tsareva_task" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2XeoKm9jDwIEBlTRRsNiAv6imLV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;api&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ekaterina/university/nefedov/shapes11&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/ekaterina/university/nefedov/shapes11/src/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b835b55d-b456-45b0-be8e-09538f94aca4" name="Changes" comment="" />
+      <created>1698998848506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698998848506</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
