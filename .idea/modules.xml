@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/less0209_2/less0209_2.iml" filepath="$PROJECT_DIR$/less0209_2/less0209_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson02.09/lesson02.09.iml" filepath="$PROJECT_DIR$/lesson02.09/lesson02.09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nefedov.iml" filepath="$PROJECT_DIR$/.idea/nefedov.iml" />
+    </modules>
+  </component>
+</project>
